@@ -1,0 +1,18 @@
+
+/* Class = "UIButton"; normalTitle = "   Collage"; ObjectID = "1rE-IR-lfy"; */
+"1rE-IR-lfy.normalTitle" = "   Коллаж";
+
+/* Class = "UILabel"; text = "Select collage format"; ObjectID = "Efk-3a-3Ud"; */
+"Efk-3a-3Ud.text" = "Выберите формат коллажа";
+
+/* Class = "UILabel"; text = "Long press, drag and drop to put photos to the collage"; ObjectID = "YHx-ly-h7R"; */
+"YHx-ly-h7R.text" = "Долгое нажатие, перетаскивание, чтобы поместить фотографии в коллаж";
+
+/* Class = "UILabel"; text = "Tap to edit photo before collage"; ObjectID = "bLW-v4-E04"; */
+"bLW-v4-E04.text" = "Нажмите, чтобы редактировать фотографию перед коллажем";
+
+/* Class = "UITextField"; placeholder = "Enter collage name"; ObjectID = "evG-Su-gBm"; */
+"evG-Su-gBm.placeholder" = "Введите название коллажа";
+
+/* Class = "UIButton"; normalTitle = "Let's Collage"; ObjectID = "sHu-4q-Kov"; */
+"sHu-4q-Kov.normalTitle" = "Давай коллаж";

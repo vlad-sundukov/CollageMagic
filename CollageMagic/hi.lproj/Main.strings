@@ -1,0 +1,18 @@
+
+/* Class = "UIButton"; normalTitle = "   Collage"; ObjectID = "1rE-IR-lfy"; */
+"1rE-IR-lfy.normalTitle" = "   महाविद्यालय";
+
+/* Class = "UILabel"; text = "Select collage format"; ObjectID = "Efk-3a-3Ud"; */
+"Efk-3a-3Ud.text" = "कोलाज प्रारूप का चयन करें";
+
+/* Class = "UILabel"; text = "Long press, drag and drop to put photos to the collage"; ObjectID = "YHx-ly-h7R"; */
+"YHx-ly-h7R.text" = "कोलाज में फोटो डालने के लिए लॉन्ग प्रेस, ड्रैग और ड्रॉप";
+
+/* Class = "UILabel"; text = "Tap to edit photo before collage"; ObjectID = "bLW-v4-E04"; */
+"bLW-v4-E04.text" = "कोलाज से पहले फोटो संपादित करने के लिए टैप करें";
+
+/* Class = "UITextField"; placeholder = "Enter collage name"; ObjectID = "evG-Su-gBm"; */
+"evG-Su-gBm.placeholder" = "कोलाज नाम दर्ज करें";
+
+/* Class = "UIButton"; normalTitle = "Let's Collage"; ObjectID = "sHu-4q-Kov"; */
+"sHu-4q-Kov.normalTitle" = "चलो कोलाज";

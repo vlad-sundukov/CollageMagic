@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  CollageMagic
+
+  Created by RX on 8/13/19.
+  Copyright © 2019 RX. All rights reserved.
+*/
+
+"OK" = "好";
+"Please enter your collage name" = "请输入拼贴名称";

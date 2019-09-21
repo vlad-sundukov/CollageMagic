@@ -1,0 +1,7 @@
+${PODS_ROOT}/Target Support Files/Pods-CollageMagic/Pods-CollageMagic-frameworks.sh
+${BUILT_PRODUCTS_DIR}/CLImageEditor/CLImageEditor.framework
+${BUILT_PRODUCTS_DIR}/Masonry/Masonry.framework
+${BUILT_PRODUCTS_DIR}/RITLKit/RITLKit.framework
+${BUILT_PRODUCTS_DIR}/RITLPhotos/RITLPhotos.framework
+${BUILT_PRODUCTS_DIR}/RITLViewFrame/RITLViewFrame.framework
+${BUILT_PRODUCTS_DIR}/iCarousel/iCarousel.framework

@@ -1,0 +1,18 @@
+
+/* Class = "UIButton"; normalTitle = "   Collage"; ObjectID = "1rE-IR-lfy"; */
+"1rE-IR-lfy.normalTitle" = "   拼贴";
+
+/* Class = "UILabel"; text = "Select collage format"; ObjectID = "Efk-3a-3Ud"; */
+"Efk-3a-3Ud.text" = "选择拼贴格式";
+
+/* Class = "UILabel"; text = "Long press, drag and drop to put photos to the collage"; ObjectID = "YHx-ly-h7R"; */
+"YHx-ly-h7R.text" = "长按，拖放以将照片放入拼贴画";
+
+/* Class = "UILabel"; text = "Tap to edit photo before collage"; ObjectID = "bLW-v4-E04"; */
+"bLW-v4-E04.text" = "点击拼贴前编辑照片";
+
+/* Class = "UITextField"; placeholder = "Enter collage name"; ObjectID = "evG-Su-gBm"; */
+"evG-Su-gBm.placeholder" = "输入拼贴名称";
+
+/* Class = "UIButton"; normalTitle = "Let's Collage"; ObjectID = "sHu-4q-Kov"; */
+"sHu-4q-Kov.normalTitle" = "让我们拼贴";
